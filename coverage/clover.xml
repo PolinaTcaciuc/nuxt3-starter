@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1713956879864" clover="3.2.0">
+  <project timestamp="1713956879864" name="All files">
+    <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="6" coveredelements="6" complexity="0" loc="6" ncloc="6" packages="2" files="2" classes="2"/>
+    <package name="nuxt3-starter">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="app.vue" path="C:\Users\polin\Desktop\nuxt3-starter\app.vue">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="nuxt3-starter.components.base">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="Button.vue" path="C:\Users\polin\Desktop\nuxt3-starter\components\base\Button.vue">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

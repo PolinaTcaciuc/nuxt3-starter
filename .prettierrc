@@ -1,0 +1,7 @@
+{
+  "tailwindConfig": "./tailwind.config.js",
+  "printWidth": 100,
+  "trailingComma": "all",
+  "endOfLine": "auto",
+  "plugins": ["prettier-plugin-tailwindcss", "prettier-plugin-organize-attributes"]
+}
